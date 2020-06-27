@@ -1,0 +1,91 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header,
+.footer {
+  background-color: black;
+  padding: 15px;
+}
+
+.footer div {
+  color: white;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.headerItem {
+  margin-right: 10px;
+  padding: 5px 10px;
+}
+
+.headerItem a {
+  color: white;
+  text-decoration: none;
+}
+
+.customers {
+  display: grid;
+  grid-gap: 20px;
+  padding: 10px;
+  margin-top: 80px;
+  grid-template-columns: auto auto auto;
+}
+
+.slides {
+  display: grid;
+  grid-gap: 20px;
+  padding: 10px;
+  grid-template-columns: auto auto;
+}
+
+.inputSpacing {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contactContainer input {
+  border: 2px solid rgb(9, 113, 241);
+  padding: 10px;
+  width: 50%;
+  border-radius: 5px;
+}
+
+.contactContainer button {
+  background-color: rgb(9, 113, 241);
+  color: white;
+  padding: 10px 40px;
+  border-radius: 5px;
+  border: 1px solid rgb(9, 113, 241);
+}
+
+.sliderImage {
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 100%;
+  height: auto;
+  background-color: grey;
+  color: white;
+}
+
+.slides span:last-child {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.customerItem {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.homeContainer,
+.workContainer,
+.aboutContainer,
+.contactContainer {
+  margin: 30px auto;
+  padding: 30px;
+}
