@@ -1,6 +1,6 @@
 # Hey, I'm Iram 👋
 
-**Senior Enterprise Field Engineer (Pre-Sales) @ CodeRabbit** 🐰
+**Senior Enterprise Field Engineer (Pre-Sales) @ Harness** 🐰
 Developer turned pre-sales engineer. 16+ years of turning "can this work?" into "yes, it shipped". 📍 London
 
 [![Website](https://img.shields.io/badge/🌐_iramkhan.com-0d1117?style=for-the-badge)](https://iramkhan.com)
