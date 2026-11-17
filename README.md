@@ -23,7 +23,6 @@ Before that: integration consulting at Codeless Platforms and software engineeri
 #### What I'm building
 
 - **[personal-ai](https://github.com/squalliram/personal-ai)**: personal AI automation, in Python.
-- **[finance-dashboard](https://github.com/squalliram/finance-dashboard)**: auto-updating dashboard of live UK Islamic home-purchase-plan rates, term-end countdown, overpayment tracker and buy-to-let yield calculator.
 - **[odido-harness-fme-demo](https://github.com/squalliram/odido-harness-fme-demo)**: feature-flag demo with a plan-upgrade journey, targeted rollout, kill switch, metrics and experimentation.
 - **[github-actions-fme](https://github.com/squalliram/github-actions-fme)**: GitHub Actions integration for feature management and experimentation.
 
