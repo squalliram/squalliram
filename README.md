@@ -1,35 +1,53 @@
-### Hi, I'm Iram 👋
+# Hey, I'm Iram 👋
 
-I'm a **Senior Enterprise Field Engineer (Pre-Sales) at CodeRabbit**, helping enterprise engineering teams adopt AI code review. I started as a developer and have spent 16+ years moving closer to customers: engineering, integration consulting, pre-sales, then leading a solutions team. Based in London.
+**Senior Enterprise Field Engineer (Pre-Sales) @ CodeRabbit** 🐰
+Developer turned pre-sales engineer. 16+ years of turning "can this work?" into "yes, it shipped". 📍 London
 
-#### Where I've worked
+[![Website](https://img.shields.io/badge/🌐_iramkhan.com-0d1117?style=for-the-badge)](https://iramkhan.com)
+![Role](https://img.shields.io/badge/🎯_Enterprise_Pre--Sales-FF570A?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_London_UK-2ea44f?style=for-the-badge)
 
-| | Role | What I did |
+### 🏆 Highlights
+- 🥇 **Star Performer of the Year**, Harness FY26
+- ⭐ **Specialist SE of the Quarter**, Q3 FY26
+- 🎤 **Keynote**, DevOps Live London 2026
+- 🚀 Built Split's **EMEA pre-sales team** from zero
+
+<details>
+<summary>🧭 <b>Where I've been</b> (click to expand)</summary>
+
+| | Role | Superpower |
 |---|---|---|
-| **CodeRabbit** | Senior Enterprise Field Engineer, Pre-Sales | Technical pre-sales for enterprise teams adopting AI code review |
-| **Harness** (from 2024) | Senior Enterprise Sales Engineer, EMEA | Ran full-cycle POCs across UK, Ireland, Benelux and DACH. Star Performer of the Year FY26 and Specialist SE of the Quarter Q3 FY26. Keynoted DevOps Live London 2026 on feature management and experimentation |
-| **Split** (2021-24) | Staff Sales Engineer, first EMEA SE hire | Built the EMEA pre-sales function from zero: demo environments, playbooks, discovery and competitive material. Promoted Senior to Staff. Landed strategic accounts in the UK, Germany and France |
-| **Zoovu** (2019-21) | Head of Solution Consulting, EMEA | Led and hired the EMEA solutions team, built the technical playbook for the enterprise motion and owned the most complex strategic accounts |
-| **Appian** (2018-19) | Senior Solution Engineer | Led technical evaluations, POCs and RFPs for FTSE 250, financial services and public sector accounts |
+| 🐰 **CodeRabbit** | Sr Enterprise Field Engineer | AI code review for enterprise teams |
+| 🔧 **Harness** (2024+) | Sr Enterprise SE, EMEA | POCs across UK, Benelux, DACH |
+| 🚩 **Split** (2021-24) | Staff SE, first EMEA hire | Built the team, playbooks and demos |
+| 🛒 **Zoovu** (2019-21) | Head of Solution Consulting | Led the EMEA solutions team |
+| 🧩 **Appian** (2018-19) | Sr Solution Engineer | FTSE 250 and public sector evaluations |
 
-Before that: integration consulting at Codeless Platforms and software engineering in C#, C++ and .NET. MSc, University of Warwick.
+</details>
 
-#### How enterprise experience shows up in my work
+<details>
+<summary>💼 <b>Why enterprise experience matters</b> (click to expand)</summary>
 
-- **I know how big deals are evaluated.** Multi-stakeholder reviews, security and procurement, RFPs and POCs that have to prove value in weeks, not quarters.
-- **I've built the team, not just the demo.** Standing up the EMEA SE function at Split and leading solutions at Zoovu means I think about repeatable playbooks, not one-off wins.
-- **I still write code.** I build the demos and automations I show customers, rather than only presenting someone else's.
+- 🧠 I know how big deals get evaluated: stakeholders, security, procurement, RFPs.
+- 🏗️ I build teams and repeatable playbooks, not just one-off demos.
+- 💻 I still write code, so my demos actually run.
 
-#### What I'm building
+</details>
 
-- **[personal-ai](https://github.com/squalliram/personal-ai)**: personal AI automation, in Python.
-- **[odido-harness-fme-demo](https://github.com/squalliram/odido-harness-fme-demo)**: feature-flag demo with a plan-upgrade journey, targeted rollout, kill switch, metrics and experimentation.
-- **[github-actions-fme](https://github.com/squalliram/github-actions-fme)**: GitHub Actions integration for feature management and experimentation.
+### 🛠️ Things I'm building
+| | Project | What it does |
+|---|---|---|
+| 🤖 | [personal-ai](https://github.com/squalliram/personal-ai) | Personal AI automation |
+| 🛍️ | [odido-harness-fme-demo](https://github.com/squalliram/odido-harness-fme-demo) | Feature-flag demo: rollouts, kill switch, experiments |
+| ⚙️ | [github-actions-fme](https://github.com/squalliram/github-actions-fme) | GitHub Actions + experimentation |
 
-#### What I work with
+### 🧰 Toolbox
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-Python · JavaScript/TypeScript · Claude Code · CI/CD and Kubernetes · feature flags and experimentation · AI-assisted code review
-
-#### Get in touch
-
-[iramkhan.com](https://iramkhan.com)
+📬 **Want to chat code review, release safety or AI automation?** [Say hi at iramkhan.com](https://iramkhan.com)
